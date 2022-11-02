@@ -1,2 +1,2 @@
-;
-    cout<<&b<<endl
+
+    ofstream out("53sample.txt");
